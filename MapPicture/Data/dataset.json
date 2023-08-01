@@ -1,0 +1,57 @@
+[
+    {
+        "image_name": "1.jpg",
+        "latitude": 31.173007,
+        "longitude": 121.414476
+    },
+    {
+        "image_name": "2.jpg",
+        "latitude": 24.578973,
+        "longitude": 112.082251
+    },
+    {
+        "image_name": "3.jpg",
+        "latitude": 32.000506,
+        "longitude": 86.753203
+    },
+    {
+        "image_name": "4.jpg",
+        "latitude": 47.436913,
+        "longitude": 124.570880
+    },
+    {
+        "image_name": "5.jpg",
+        "latitude": 36.502461,
+        "longitude": 101.352585
+    },
+    {
+        "image_name": "6.jpg",
+        "latitude": 47.792400,
+        "longitude": 71.098443
+    },
+    {
+        "image_name": "7.jpg",
+        "latitude": 37.274599,
+        "longitude": 81.882067
+    },
+    {
+        "image_name": "8.jpg",
+        "latitude": 27.449790,
+        "longitude": 41.899805
+    },
+    {
+        "image_name": "9.jpg",
+        "latitude": 31.173007,
+        "longitude": 121.414476
+    },
+    {
+        "image_name": "10.jpg",
+        "latitude": 30.155815,
+        "longitude": 99.052320
+    },
+    {
+        "image_name": "11.jpg",
+        "latitude": 28.485591,
+        "longitude": 110.771402
+    }
+]
